@@ -2,7 +2,7 @@ server_url: https://86.109.15.131:6443
 token: token
 os:
   ssh_authorized_keys:
-    - github:guangbochen
+  - github:guangbochen
   password: passwd
 install:
   mode: join

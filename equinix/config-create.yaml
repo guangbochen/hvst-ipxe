@@ -2,7 +2,7 @@ token: token
 os:
   hostname: harv1
   ssh_authorized_keys:
-    - github:guangbochen
+  - github:guangbochen
   password: passwd
 install:
   mode: create
